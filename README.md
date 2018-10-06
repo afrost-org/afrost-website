@@ -1,3 +1,2 @@
-# AFROST_Training
+# AFROST
 
-AFROST Training website
