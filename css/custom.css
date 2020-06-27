@@ -1,0 +1,22 @@
+.panel-group{
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.panel-heading a{
+    color: #212121;
+}
+
+@media only screen and (max-width: 780px) {
+    .panel-group{
+    	max-width: 700px;
+    	margin: 0 auto;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .panel-group{
+    	max-width: 700px;
+    	margin: 0 auto;
+    }
+}
